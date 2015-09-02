@@ -1,0 +1,86 @@
+{
+  "configuration": {
+    "builtFromClean": 0,
+    "periodicScheduleInterval": 0,
+    "codeCoveragePreference": 2,
+    "performsTestAction": true,
+    "triggers": [
+
+    ],
+    "performsAnalyzeAction": true,
+    "schemeName": "Buildasaur-Tester",
+    "exportsProductFromArchive": true,
+    "testingDeviceIDs": [
+
+    ],
+    "deviceSpecification": {
+      "filters": [
+        {
+          "platform": {
+            "_id": "448946985304230369392c2e6b00226c",
+            "displayName": "iOS",
+            "_rev": "3-c50bae22b98a80c3919c7b5f1e7400a8",
+            "simulatorIdentifier": "com.apple.platform.iphonesimulator",
+            "identifier": "com.apple.platform.iphoneos",
+            "buildNumber": "13A4325c",
+            "version": "9.0"
+          },
+          "filterType": 3,
+          "architectureType": 0
+        }
+      ],
+      "deviceIdentifiers": [
+        "448946985304230369392c2e6b00892e"
+      ]
+    },
+    "weeklyScheduleDay": 0,
+    "minutesAfterHourToIntegrate": 0,
+    "scheduleType": 3,
+    "hourOfIntegration": 0,
+    "performsArchiveAction": true,
+    "testingDestinationType": 0,
+    "sourceControlBlueprint": {
+      "DVTSourceControlWorkspaceBlueprintLocationsKey": {
+        "CEE8472CC4AB69CD27173B930EB93B6B4AA4BAFC": {
+          "DVTSourceControlBranchIdentifierKey": "master",
+          "DVTSourceControlBranchOptionsKey": 4,
+          "DVTSourceControlWorkspaceBlueprintLocationTypeKey": "DVTSourceControlBranch"
+        }
+      },
+      "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey": "CEE8472CC4AB69CD27173B930EB93B6B4AA4BAFC",
+      "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey": {
+      },
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryAuthenticationStrategiesKey": {
+        "CEE8472CC4AB69CD27173B930EB93B6B4AA4BAFC": {
+          "DVTSourceControlWorkspaceBlueprintRemoteRepositoryAuthenticationTypeKey": "DVTSourceControlSSHKeysAuthenticationStrategy"
+        }
+      },
+      "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey": {
+        "CEE8472CC4AB69CD27173B930EB93B6B4AA4BAFC": 0
+      },
+      "DVTSourceControlWorkspaceBlueprintIdentifierKey": "C320A106-A31F-4F4E-B428-B1EAAD0F67C4",
+      "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey": {
+        "CEE8472CC4AB69CD27173B930EB93B6B4AA4BAFC": "Buildasaur-Tester/"
+      },
+      "DVTSourceControlWorkspaceBlueprintNameKey": "Buildasaur-Tester",
+      "DVTSourceControlWorkspaceBlueprintVersion": 204,
+      "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey": "Buildasaur-Tester.xcodeproj",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey": [
+        {
+          "DVTSourceControlWorkspaceBlueprintRemoteRepositoryEnforceTrustCertFingerprintKey": true,
+          "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey": "github.com:czechboy0/Buildasaur-Tester.git",
+          "DVTSourceControlWorkspaceBlueprintRemoteRepositoryTrustedCertFingerprintKey": "1627ACA576282D36631B564DEBDFA648",
+          "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey": "CEE8472CC4AB69CD27173B930EB93B6B4AA4BAFC",
+          "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey": "com.apple.dt.Xcode.sourcecontrol.Git"
+        }
+      ]
+    }
+  },
+  "xcsconfig": {
+    "format_version": 1,
+    "app_version": "0.7.1",
+    "original_bot_name": "Buildasaur-Tester Bot",
+    "name": "tester",
+    "api_version": "6"
+  }
+}
