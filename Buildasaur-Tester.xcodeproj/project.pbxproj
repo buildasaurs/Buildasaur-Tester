@@ -156,6 +156,7 @@
 		3A02C8DE1AD9502A00C06948 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
+				LastSwiftUpdateCheck = 0700;
 				LastUpgradeCheck = 0630;
 				ORGANIZATIONNAME = "Honza Dvorsky";
 				TargetAttributes = {
@@ -409,6 +410,7 @@
 				3A02C9071AD9502B00C06948 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		3A02C9081AD9502B00C06948 /* Build configuration list for PBXNativeTarget "Buildasaur-TesterTests" */ = {
 			isa = XCConfigurationList;
@@ -417,6 +419,7 @@
 				3A02C90A1AD9502B00C06948 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
