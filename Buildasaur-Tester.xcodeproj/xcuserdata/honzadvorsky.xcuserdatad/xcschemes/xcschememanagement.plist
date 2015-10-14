@@ -9,6 +9,21 @@
 			<key>orderHint</key>
 			<integer>0</integer>
 		</dict>
+		<key>MacTester.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>2</integer>
+		</dict>
+		<key>Notification - WatchTester.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>4</integer>
+		</dict>
+		<key>WatchTester.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>3</integer>
+		</dict>
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
@@ -18,6 +33,21 @@
 			<true/>
 		</dict>
 		<key>3A02C8FA1AD9502B00C06948</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>3ABB8F711BCEBBD100A68AA6</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>3ABB8F841BCEBC3900A68AA6</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>3ABB8F901BCEBC7100A68AA6</key>
 		<dict>
 			<key>primary</key>
 			<true/>
