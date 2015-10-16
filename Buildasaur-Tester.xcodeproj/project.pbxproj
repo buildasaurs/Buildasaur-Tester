@@ -683,6 +683,7 @@
 				INFOPLIST_FILE = "Buildasaur-Tester/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
 		};
@@ -693,6 +694,7 @@
 				INFOPLIST_FILE = "Buildasaur-Tester/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Release;
 		};
@@ -895,6 +897,7 @@
 				3ABB8F7F1BCEBBD100A68AA6 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		3ABB8F8C1BCEBC3900A68AA6 /* Build configuration list for PBXNativeTarget "MacTesterTests" */ = {
 			isa = XCConfigurationList;
@@ -903,6 +906,7 @@
 				3ABB8F8E1BCEBC3900A68AA6 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		3ABB8FB01BCEBC7100A68AA6 /* Build configuration list for PBXNativeTarget "WatchTester Extension" */ = {
 			isa = XCConfigurationList;
@@ -911,6 +915,7 @@
 				3ABB8FB21BCEBC7100A68AA6 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		3ABB8FB41BCEBC7100A68AA6 /* Build configuration list for PBXNativeTarget "WatchTester" */ = {
 			isa = XCConfigurationList;
@@ -919,6 +924,7 @@
 				3ABB8FB61BCEBC7100A68AA6 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
