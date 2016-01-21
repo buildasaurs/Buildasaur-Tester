@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Scheme
-   LastUpgradeVersion = "0630"
+   LastUpgradeVersion = "0700"
    version = "1.3">
    <BuildAction
       parallelizeBuildables = "YES"
@@ -14,23 +14,9 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "3A02C8E51AD9502B00C06948"
-               BuildableName = "Buildasaur-Tester.app"
-               BlueprintName = "Buildasaur-Tester"
-               ReferencedContainer = "container:Buildasaur-Tester.xcodeproj">
-            </BuildableReference>
-         </BuildActionEntry>
-         <BuildActionEntry
-            buildForTesting = "YES"
-            buildForRunning = "YES"
-            buildForProfiling = "NO"
-            buildForArchiving = "NO"
-            buildForAnalyzing = "YES">
-            <BuildableReference
-               BuildableIdentifier = "primary"
-               BlueprintIdentifier = "3A02C8FA1AD9502B00C06948"
-               BuildableName = "Buildasaur-TesterTests.xctest"
-               BlueprintName = "Buildasaur-TesterTests"
+               BlueprintIdentifier = "3ABB8F711BCEBBD100A68AA6"
+               BuildableName = "MacTester.app"
+               BlueprintName = "MacTester"
                ReferencedContainer = "container:Buildasaur-Tester.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
@@ -46,9 +32,9 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "3A02C8FA1AD9502B00C06948"
-               BuildableName = "Buildasaur-TesterTests.xctest"
-               BlueprintName = "Buildasaur-TesterTests"
+               BlueprintIdentifier = "3ABB8F841BCEBC3900A68AA6"
+               BuildableName = "MacTesterTests.xctest"
+               BlueprintName = "MacTesterTests"
                ReferencedContainer = "container:Buildasaur-Tester.xcodeproj">
             </BuildableReference>
          </TestableReference>
@@ -56,9 +42,9 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "3A02C8E51AD9502B00C06948"
-            BuildableName = "Buildasaur-Tester.app"
-            BlueprintName = "Buildasaur-Tester"
+            BlueprintIdentifier = "3ABB8F711BCEBBD100A68AA6"
+            BuildableName = "MacTester.app"
+            BlueprintName = "MacTester"
             ReferencedContainer = "container:Buildasaur-Tester.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
@@ -79,9 +65,9 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "3A02C8E51AD9502B00C06948"
-            BuildableName = "Buildasaur-Tester.app"
-            BlueprintName = "Buildasaur-Tester"
+            BlueprintIdentifier = "3ABB8F711BCEBBD100A68AA6"
+            BuildableName = "MacTester.app"
+            BlueprintName = "MacTester"
             ReferencedContainer = "container:Buildasaur-Tester.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
@@ -98,9 +84,9 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "3A02C8E51AD9502B00C06948"
-            BuildableName = "Buildasaur-Tester.app"
-            BlueprintName = "Buildasaur-Tester"
+            BlueprintIdentifier = "3ABB8F711BCEBBD100A68AA6"
+            BuildableName = "MacTester.app"
+            BlueprintName = "MacTester"
             ReferencedContainer = "container:Buildasaur-Tester.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
