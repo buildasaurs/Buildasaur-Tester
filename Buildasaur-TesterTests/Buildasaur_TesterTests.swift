@@ -26,6 +26,11 @@ class Buildasaur_TesterTests: XCTestCase {
         XCTAssert(true, "Pass")
     }
     
+   func testExample2() {
+        // This is an example of a functional test case.
+        XCTAssert(true, "good")
+    }
+    
     func testPerformanceExample() {
         // This is an example of a performance test case.
         self.measureBlock() {
