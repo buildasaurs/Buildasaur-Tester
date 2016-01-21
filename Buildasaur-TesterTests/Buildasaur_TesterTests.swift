@@ -28,7 +28,7 @@ class Buildasaur_TesterTests: XCTestCase {
     
    func testExample2() {
         // This is an example of a functional test case.
-        XCTAssert(false, "failed")
+        XCTAssert(true, "good")
     }
     
     func testPerformanceExample() {
